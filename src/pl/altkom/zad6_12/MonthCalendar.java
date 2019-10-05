@@ -1,4 +1,4 @@
-package pl.altkom.zad6_13;
+package pl.altkom.zad6_12;
 
 import java.text.NumberFormat;
 import java.time.DayOfWeek;
